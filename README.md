@@ -1,6 +1,6 @@
 ### 👋 Olá!  Eu sou o Vitor Valério.
 
-🎓 Sou um engenheiro eletricista que decidiu embarcar no mundo da programação. Meu foco inicial é o back-end, e as linguagens que tenho explorado são o JavaScript, TypeScript e SQL.
+🎓 Sou um engenheiro eletricista que decidiu embarcar no mundo da programação. Meu foco inicial é o back-end e as linguagens que tenho explorado são o JavaScript, TypeScript e SQL.
 
 🖥️ Essa nova fase começou com o curso da Cubos Academy em parceria com o iFood, que me proporcionou ingressar nesse universo. Já estou criando soluções com o desenvolvimento de APIs REST. Quero aprender, colaborar e contribuir para projetos inovadores que desafiem minha criatividade e habilidades técnicas. 
 
